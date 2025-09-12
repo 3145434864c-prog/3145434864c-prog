@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Cesar David!
 
-<!--
-**3145434864c-prog/3145434864c-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80)
 
-Here are some ideas to get you started:
+🎓 **Estudiante de programación web** | 💻 **Siempre en búsqueda de mejorar y aprender**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+- 🌟 Apasionado por la programación y siempre enfrentando nuevos desafíos.  
+- 🎯 Especializado en **JavaScript, HTML, CSS, PHP y SQL**.  
+- 🤹 Me encanta experimentar con juegos y mini proyectos web.  
+- 😂 Disfruto los memes de programación y el humor tecnológico.  
+
+---
+
+## 🛠 Habilidades
+
+**JavaScript**  
+`██████████░░░░░░░░░░` 50% (siempre aprendiendo 😅)  
+
+**HTML**  
+`████████████████░░░░` 80%  
+
+**CSS**  
+`███████████████░░░░░` 70%  
+
+**PHP**  
+`████░░░░░░░░░░░░░░░░` 20% (aprendiendo y mejorando 🚀)  
+
+**SQL**  
+`████████░░░░░░░░░░░░` 40% (mejorando cada día 📚)  
+
+---
+
+## 💻 Proyectos Destacados
+- 🎲 **Memory Master** – [Ver demo](https://3145434864c-prog.github.io/Memory-Master-/) – Entrena tu memoria con cartas divertidas.  
+- ⚡ **Juego de Cesar 2.0** – [Ver demo](https://3145434864c-prog.github.io/juego-de-cesar2.0/) – Un juego interactivo para divertirse y practicar habilidades web.  
+
+---
+
+## 📸 Momentos de programación
+![Programando feliz](https://media.giphy.com/media/26FPnsRww3z0vL2DK/giphy.gif)  
+![Cuando estoy buscando al error impostor](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)  
+
+---
+
+## 📊 Estadísticas de GitHub
+![Cesar David's GitHub stats](https://github-readme-stats.vercel.app/api?username=3145434864c-prog&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3145434864c-prog&layout=compact&theme=radical)  
+
+---
+
+✨ Gracias por visitar mi perfil.  
+🚀 Siempre en búsqueda de mejorar y crecer, un commit a la vez.  
