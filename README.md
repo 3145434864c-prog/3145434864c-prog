@@ -39,11 +39,7 @@
 
 ---
 
-## 📸 Momentos de programación
-![Programando feliz](https://media.giphy.com/media/26FPnsRww3z0vL2DK/giphy.gif)  
-![Cuando estoy buscando al error impostor](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)  
 
----
 
 ## 📊 Estadísticas de GitHub
 ![Cesar David's GitHub stats](https://github-readme-stats.vercel.app/api?username=3145434864c-prog&show_icons=true&theme=radical)  
