@@ -48,4 +48,4 @@
 ---
 
 ✨ Gracias por visitar mi perfil.  
-🚀 Siempre en búsqueda de mejorar y crecer, un commit a la vez.  
+🚀 Siempre en búsqueda de mejorar y crecer, un paso a la vez.  
