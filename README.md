@@ -16,44 +16,45 @@
 
 ## 🛠 Habilidades
 
-**JavaScript**  
-`██████████░░░░░░░░░░` 50% (siempre aprendiendo 😅)  
-
-**HTML**  
-`████████████████░░░░` 80%  
-
-**CSS**  
-`███████████████░░░░░` 70%  
-
-**PHP**  
-`████░░░░░░░░░░░░░░░░` 20% (aprendiendo y mejorando 🚀)  
-
-**SQL**  
-`████████░░░░░░░░░░░░` 40% (mejorando cada día 📚)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+
 ## 🚀 Último Proyecto: Comidas Colombianas
 
-Un sitio web dedicado a la gastronomía típica de Colombia 🇨🇴🍲  
-Explora platos tradicionales con un diseño sencillo y atractivo.  
+<p align="center">
+  <a href="https://3145434864c-prog.github.io/comidas-colombianas/">
+    <img src="https://raw.githubusercontent.com/3145434864c-prog/3145434864c-prog/main/portada.png" alt="Comidas Colombianas" width="600px">
+  </a>
+</p>
 
-[![Vista previa](https://raw.githubusercontent.com/3145434864c-prog/3145434864c-prog/main/portada.png)](https://3145434864c-prog.github.io/comidas-colombianas/)
+Un sitio web dedicado a la gastronomía típica de Colombia 🇨🇴🍲  
 
 🔗 **Demo:** [Ver Proyecto](https://3145434864c-prog.github.io/comidas-colombianas/)  
 📂 **Repositorio:** [GitHub Repo](https://github.com/3145434864c-prog/comidas-colombianas)
 
+---
+
 ## 💻 Proyectos Destacados
-- 🎲 **Memory Master** – [Ver demo](https://3145434864c-prog.github.io/Memory-Master-/) – Entrena tu memoria con cartas divertidas.  
-- ⚡ **Juego de Cesar 2.0** – [Ver demo](https://3145434864c-prog.github.io/juego-de-cesar2.0/) – Un juego interactivo para divertirse y practicar habilidades web.
-- 
+
+- 🎲 **Memory Master** – [🔗 Ver demo](https://3145434864c-prog.github.io/Memory-Master-/)  
+  🧠 Juego de memoria con cartas interactivas.
+
+- ⚡ **Juego de Cesar 2.0** – [🔗 Ver demo](https://3145434864c-prog.github.io/juego-de-cesar2.0/)  
+  🔐 Juego interactivo para practicar lógica y cifrado.
 
 ---
 
-
-
 ## 📊 Estadísticas de GitHub
-![Cesar David's GitHub stats](https://github-readme-stats.vercel.app/api?username=3145434864c-prog&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3145434864c-prog&layout=compact&theme=radical)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3145434864c-prog&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3145434864c-prog&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
