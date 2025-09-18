@@ -32,10 +32,20 @@
 `████████░░░░░░░░░░░░` 40% (mejorando cada día 📚)  
 
 ---
+## 🚀 Último Proyecto: Comidas Colombianas
+
+Un sitio web dedicado a la gastronomía típica de Colombia 🇨🇴🍲  
+Explora platos tradicionales con un diseño sencillo y atractivo.  
+
+[![Vista previa](https://raw.githubusercontent.com/3145434864c-prog/3145434864c-prog/main/portada.png)](https://3145434864c-prog.github.io/comidas-colombianas/)
+
+🔗 **Demo:** [Ver Proyecto](https://3145434864c-prog.github.io/comidas-colombianas/)  
+📂 **Repositorio:** [GitHub Repo](https://github.com/3145434864c-prog/comidas-colombianas)
 
 ## 💻 Proyectos Destacados
 - 🎲 **Memory Master** – [Ver demo](https://3145434864c-prog.github.io/Memory-Master-/) – Entrena tu memoria con cartas divertidas.  
-- ⚡ **Juego de Cesar 2.0** – [Ver demo](https://3145434864c-prog.github.io/juego-de-cesar2.0/) – Un juego interactivo para divertirse y practicar habilidades web.  
+- ⚡ **Juego de Cesar 2.0** – [Ver demo](https://3145434864c-prog.github.io/juego-de-cesar2.0/) – Un juego interactivo para divertirse y practicar habilidades web.
+- 
 
 ---
 
