@@ -39,13 +39,15 @@ Un sitio web dedicado a la gastronomía típica de Colombia 🇨🇴🍲
 
 ---
 
-## 💻 Proyectos Destacados
+## 💻 Portafolio de Proyectos
 
-- 🎲 **Memory Master** – [🔗 Ver demo](https://3145434864c-prog.github.io/Memory-Master-/)  
-  🧠 Juego de memoria con cartas interactivas.
-
-- ⚡ **Juego de Cesar 2.0** – [🔗 Ver demo](https://3145434864c-prog.github.io/juego-de-cesar2.0/)  
-  🔐 Juego interactivo para practicar lógica y cifrado.
+| Proyecto | Descripción | Demo | Repositorio |
+|----------|-------------|------|-------------|
+| 🍽️ **Comidas Colombianas** | Sitio web dedicado a la gastronomía típica de Colombia 🇨🇴🍲 | [🔗 Ver demo](https://3145434864c-prog.github.io/comidas-colombianas/) | [📂 Ver repo](https://github.com/3145434864c-prog/comidas-colombianas) |
+| 🎲 **Memory Master** | Juego de memoria con cartas interactivas 🧠 | [🔗 Ver demo](https://3145434864c-prog.github.io/Memory-Master-/) | [📂 Ver repo](https://github.com/3145434864c-prog/Memory-Master-) |
+| ⚡ **Juego de Cesar 2.0** | Juego interactivo para practicar lógica y cifrado 🔐 | [🔗 Ver demo](https://3145434864c-prog.github.io/juego-de-cesar2.0/) | [📂 Ver repo](https://github.com/3145434864c-prog/juego-de-cesar2.0) |
+| 💌 **Carta para ti** | Proyecto creativo y personal, una carta digital interactiva 💖 | *(sin demo disponible)* | [📂 Ver repo](https://github.com/3145434864c-prog/carta_para_ti) |
+| 🎬 **Recomendar Cine** | Web simple para recomendar películas 🍿 | [🔗 Ver demo](https://3145434864c-prog.github.io/Recomendar-cine/) | [📂 Ver repo](https://github.com/3145434864c-prog/Recomendar-cine) |
 
 ---
 
