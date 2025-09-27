@@ -1,6 +1,6 @@
-# 👋 ¡Hola, soy Cesar David!
+![Banner](./portadatech.png)
 
-![Banner](./banner.png)
+
 
 💻 **Desarrollador Web en formación** | 🚀 **Apasionado por crear y aprender**  
 
