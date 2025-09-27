@@ -16,8 +16,7 @@
 
 ---
 
-## 🌱 Actualmente aprendiendo
-- Frameworks de JavaScript (React).  
+## 🌱 Actualmente aprendiendo  
 - Mejores prácticas de desarrollo web.  
 - Optimización de proyectos con **Bootstrap y TailwindCSS**.  
 
