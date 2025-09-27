@@ -28,9 +28,10 @@
 
 <p align="center">
   <a href="https://3145434864c-prog.github.io/Pagina-Veterinaria/">
-    <img src="https://raw.githubusercontent.com/3145434864c-prog/3145434864c-prog/main/huellitas.png" alt="Huellitas Alegres" width="600px">
+    <img src="./huellitasalegres.png" alt="Huellitas Alegres" width="600px">
   </a>
 </p>
+
 
 Un sitio web diseñado para una veterinaria, pensado en brindar atención cálida y profesional a las mascotas 🐶🐱💙  
 
