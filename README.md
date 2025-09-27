@@ -24,7 +24,22 @@
 
 ---
 
-## 🚀 Último Proyecto: Comidas Colombianas
+## 🚀 Último Proyecto: Huellitas Alegres 🐾
+
+<p align="center">
+  <a href="https://3145434864c-prog.github.io/Pagina-Veterinaria/">
+    <img src="https://raw.githubusercontent.com/3145434864c-prog/3145434864c-prog/main/huellitas.png" alt="Huellitas Alegres" width="600px">
+  </a>
+</p>
+
+Un sitio web diseñado para una veterinaria, pensado en brindar atención cálida y profesional a las mascotas 🐶🐱💙  
+
+🔗 **Demo:** [Ver Proyecto](https://3145434864c-prog.github.io/Pagina-Veterinaria/)  
+📂 **Repositorio:** [GitHub Repo](https://github.com/3145434864c-prog/Pagina-Veterinaria)
+
+---
+
+## 🚀 Proyecto Destacado Anterior: Comidas Colombianas
 
 <p align="center">
   <a href="https://3145434864c-prog.github.io/comidas-colombianas/">
@@ -43,6 +58,7 @@ Un sitio web dedicado a la gastronomía típica de Colombia 🇨🇴🍲
 
 | Proyecto | Descripción | Demo | Repositorio |
 |----------|-------------|------|-------------|
+| 🐾 **Huellitas Alegres** | Web de veterinaria para mostrar servicios y cuidados de mascotas 🐶🐱 | [🔗 Ver demo](https://3145434864c-prog.github.io/Pagina-Veterinaria/) | [📂 Ver repo](https://github.com/3145434864c-prog/Pagina-Veterinaria) |
 | 🍽️ **Comidas Colombianas** | Sitio web dedicado a la gastronomía típica de Colombia 🇨🇴🍲 | [🔗 Ver demo](https://3145434864c-prog.github.io/comidas-colombianas/) | [📂 Ver repo](https://github.com/3145434864c-prog/comidas-colombianas) |
 | 🎲 **Memory Master** | Juego de memoria con cartas interactivas 🧠 | [🔗 Ver demo](https://3145434864c-prog.github.io/Memory-Master-/) | [📂 Ver repo](https://github.com/3145434864c-prog/Memory-Master-) |
 | ⚡ **Juego de Cesar 2.0** | Juego interactivo para practicar lógica y cifrado 🔐 | [🔗 Ver demo](https://3145434864c-prog.github.io/juego-de-cesar2.0/) | [📂 Ver repo](https://github.com/3145434864c-prog/juego-de-cesar2.0) |
