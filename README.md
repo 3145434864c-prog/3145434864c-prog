@@ -90,8 +90,7 @@
 
 ## 📫 Contáctame
 
-- ✉️ **Correo:** tuemail@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/cesar-david](#)  
+- ✉️ **Correo:** 3145434864@gmail.com  
 - 🌐 **Portafolio web:** próximamente 🚀  
 
 ---
