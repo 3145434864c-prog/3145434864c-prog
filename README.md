@@ -21,7 +21,22 @@
 
 ---
 
-## 🐾 Último Proyecto: Huellitas Alegres  
+## 🏢 Nuevo Proyecto: Nuva S.A.S
+
+<p align="center">
+  <a href="https://3145434864c-prog.github.io/Nuva-landigpage/">
+    <img src="./Navy Modern Illustrated Conference Planning Meeting Presentation.jpg" alt="Landing Page Nuva S.A.S" width="600px" style="border-radius:15px; box-shadow:0 0 10px rgba(0,0,0,0.3)">
+  </a>
+</p>
+
+✨ Una **landing page moderna y profesional** desarrollada para **Nuva S.A.S**, destacando su marca y servicios con un diseño limpio, corporativo y responsivo.  
+
+🔗 **Demo:** [Ver Proyecto](https://3145434864c-prog.github.io/Nuva-landigpage/)  
+📂 **Repositorio:** [GitHub Repo](https://github.com/3145434864c-prog/3145434864c-prog.git)
+
+---
+
+## 🐾 Proyecto: Huellitas Alegres  
 
 <p align="center">
   <a href="https://3145434864c-prog.github.io/Pagina-Veterinaria/">
@@ -55,6 +70,7 @@ Un sitio web dedicado a la **gastronomía típica de Colombia** 🇨🇴🍲
 
 | Proyecto | Descripción | Demo | Repositorio |
 |:--------:|:-----------:|:----:|:-----------:|
+| 🏢 **Landing Page – Nuva S.A.S** | Página corporativa moderna y responsiva 🌐 | [🔗 Demo](https://3145434864c-prog.github.io/Nuva-landigpage/) | [📂 Repo](https://github.com/3145434864c-prog/3145434864c-prog.git) |
 | 🐾 **Huellitas Alegres** | Web sobre cuidado y bienestar de mascotas 🐶🐱 | [🔗 Demo](https://3145434864c-prog.github.io/Pagina-Veterinaria/) | [📂 Repo](https://github.com/3145434864c-prog/Pagina-Veterinaria) |
 | 🍽️ **Comidas Colombianas** | Gastronomía típica de Colombia 🇨🇴 | [🔗 Demo](https://3145434864c-prog.github.io/comidas-colombianas/) | [📂 Repo](https://github.com/3145434864c-prog/comidas-colombianas) |
 | 🎲 **Memory Master** | Juego de memoria con cartas interactivas 🧠 | [🔗 Demo](https://3145434864c-prog.github.io/Memory-Master-/) | [📂 Repo](https://github.com/3145434864c-prog/Memory-Master-) |
@@ -73,11 +89,17 @@ Un sitio web dedicado a la **gastronomía típica de Colombia** 🇨🇴🍲
 
 ---
 
+## 📫 Contacto  
+
 ✨ **Sé parte de esta aventura digital 🚀**  
 Gracias por visitar mi perfil 🙌  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil">
+  <a href="https://www.linkedin.com/in/césar-david">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:tucorreo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
