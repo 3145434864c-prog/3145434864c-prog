@@ -47,7 +47,7 @@
 💖 Una página web pensada para el **cuidado y bienestar de las mascotas**.  
 
 🔗 **Demo:** [Ver Proyecto](https://3145434864c-prog.github.io/Pagina-Veterinaria/)  
-📂 **Repositorio:** [GitHub Repo](https://github.com/3145434864c-prog/Pagina-Veterinaria)
+📂 **Repositorio:** [GitHub Repo](https://github.com/3145434864c-prog/Nuva-landigpage)
 
 ---
 
