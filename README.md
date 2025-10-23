@@ -32,7 +32,7 @@
 ✨ Una **landing page moderna y profesional** desarrollada para **Nuva S.A.S**, destacando su marca y servicios con un diseño limpio, corporativo y responsivo.  
 
 🔗 **Demo:** [Ver Proyecto](https://3145434864c-prog.github.io/Nuva-landigpage/)  
-📂 **Repositorio:** [GitHub Repo](https://github.com/3145434864c-prog/3145434864c-prog.git)
+📂 **Repositorio:** [GitHub Repo](https://github.com/3145434864c-prog/Nuva-landigpage)
 
 ---
 
