@@ -44,40 +44,6 @@ Estas habilidades fortalecen mi enfoque al construir software eficiente, manteni
 
 ---
 
-# 🏗️ Proyectos Profesionales
-
-## 💰 **Finanzas Personales – Laravel 12 + Filament**  
-Sistema completo de gestión de finanzas personales:  
-✔ Control de ingresos y gastos  
-✔ Categorías, reportes y panel avanzado  
-✔ Interfaz moderna gracias a **Filament**  
-✔ Arquitectura limpia, escalable y mantenible  
-
-📂 Repositorio: https://github.com/3145434864c-prog/finanzasPersonales.git
-
----
-
-## 🏢 **2FA – Sistema de Inventarios para Nuva S.A.S**  
-Aplicación empresarial diseñada para gestionar inventarios con:  
-✔ Seguridad reforzada  
-✔ Base sólida para crecimiento y alta demanda  
-✔ Flujo de inventarios confiable  
-✔ Backend robusto y organizado  
-
-📂 Repositorio: https://github.com/3145434864c-prog/2FA.git
-
----
-
-## 🔌 **API REST – PHP 8**  
-API REST modular y ligera desarrollada con PHP 8, creada para exponer datos mediante endpoints organizados y escalables.  
-✔ Arquitectura clara  
-✔ Respuestas estandarizadas  
-✔ Pensada para integrarse fácilmente con frontends o apps móviles  
-
-📂 Repositorio: https://github.com/3145434864c-prog/Api.git
-
-
----
 
 ## 🏢 Nuevo Proyecto: Nuva S.A.S
 
@@ -124,6 +90,80 @@ Un sitio web dedicado a la **gastronomía típica de Colombia** 🇨🇴🍲
 
 ---
 
+
+## 🚀 Proyectos Profesionales
+
+<div align="center">
+
+### 💼 Finanzas Personales  
+<div style="
+  border: 1px solid #e5e5e5;
+  border-radius: 16px;
+  padding: 22px;
+  width: 85%;
+  margin-bottom: 25px;
+  background: #ffffff;
+  transition: transform .2s;
+">
+  <h3 style="margin: 0; font-size: 22px;">📘 Laravel 12 + Filament</h3>
+  <p style="color:#555; font-size: 15px; margin:10px 0;">
+    Plataforma de gestión financiera completa: ingresos, gastos, reportes, categorías y panel administrativo moderno.
+  </p>
+
+  <a href="https://github.com/3145434864c-prog/finanzasPersonales.git">
+    🔗 <strong>Ver repositorio</strong>
+  </a>
+</div>
+
+---
+### 🏭 2FA – Gestión de Inventarios  
+<div style="
+  border: 1px solid #e5e5e5;
+  border-radius: 16px;
+  padding: 22px;
+  width: 85%;
+  margin-bottom: 25px;
+  background: #fafafa;
+  transition: transform .2s;
+">
+  <h3 style="margin: 0; font-size: 22px;">🔐 Sistema Empresarial</h3>
+  <p style="color:#555; font-size: 15px; margin:10px 0;">
+    Sistema creado para <strong>Nuva S.A.S</strong>. Seguridad reforzada, base escalable y flujo de inventarios estable.
+  </p>
+
+  <a href="https://github.com/3145434864c-prog/2FA.git">
+    🔗 <strong>Ver repositorio</strong>
+  </a>
+</div>
+
+---
+
+### 🔌 API REST – PHP 8  
+<div style="
+  border: 1px solid #e5e5e5;
+  border-radius: 16px;
+  padding: 22px;
+  width: 85%;
+  margin-bottom: 25px;
+  background: #ffffff;
+  transition: transform .2s;
+">
+  <h3 style="margin: 0; font-size: 22px;">🌐 Backend Modular</h3>
+  <p style="color:#555; font-size: 15px; margin:10px 0;">
+    API ligera y organizada con <strong>PHP 8</strong>. Estructura clara, endpoints estandarizados y alta integrabilidad.
+  </p>
+
+  <a href="https://github.com/3145434864c-prog/Api.git">
+    🔗 <strong>Ver repositorio</strong>
+  </a>
+</div>
+
+</div>
+
+
+---
+
+
 ## 📂 Portafolio de Proyectos  
 
 | Proyecto | Descripción | Demo | Repositorio |
@@ -138,22 +178,53 @@ Un sitio web dedicado a la **gastronomía típica de Colombia** 🇨🇴🍲
 
 ---
 
-<div align="center">
 
-💡 *Gracias por visitar mi perfil. Si deseas colaborar, aprender o conversar sobre tecnología, aquí me encuentras:*  
 
-<br>
 
-<a href="https://www.linkedin.com/in/césar-david">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<div align="center" style="margin-top:40px;">
 
-<a href="mailto:3145434864c@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <!-- Título Animado -->
+  <h2 style="
+    font-size: 42px;
+    font-weight: 900;
+    background: linear-gradient(90deg, #0A66C2, #00AEEF, #0077FF);
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: glow 2.5s ease-in-out infinite alternate;
+    letter-spacing: 1.5px;
+    margin-bottom: 10px;
+  ">
+    ¡Construyamos algo extraordinario! 🚀
+  </h2>
 
-<a href="https://github.com/3145434864c-prog">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <!-- Descripción -->
+  <p style="
+    font-size: 20px;
+    color: #333;
+    max-width: 720px;
+    line-height: 1.6;
+  ">
+    Gracias por visitar mi perfil. Si deseas colaborar, crear, aprender o hablar de tecnología, aquí estoy.  
+    Siempre abierto a nuevos retos y proyectos con impacto real.
+  </p>
+
+  <br>
+
+  <!-- Botones -->
+  <a href="https://www.linkedin.com/in/césar-david">
+    <img src="https://img.shields.io/badge/Conectar%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+         style="margin: 6px;"/>
+  </a>
+
+  <a href="mailto:3145434864c@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         style="margin: 6px;"/>
+  </a>
+
+
 
 </div>
+
+
+
+
