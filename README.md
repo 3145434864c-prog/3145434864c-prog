@@ -24,7 +24,7 @@ Me apasiona crear herramientas que resuelvan problemas reales, desde software em
 
 ---
 
-# 🎓 Certificaciones (resumen)
+# 🎓 Certificaciones 
 He completado formación en IA, programación y seguridad, destacando:
 
 - **Generative AI: Prompt Engineering Basics**  
