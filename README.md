@@ -217,10 +217,7 @@ Un sitio web dedicado a la **gastronomía típica de Colombia** 🇨🇴🍲
          style="margin: 6px;"/>
   </a>
 
-  <a href="mailto:3145434864c@gmail.com">
-    <img src="https://img.shields.io/badge/Enviar%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-         style="margin: 6px;"/>
-  </a>
+
 
 
 
