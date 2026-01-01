@@ -34,7 +34,7 @@ He completado formación en IA, programación y seguridad, destacando:
 - **Data, Data Everywhere**  
 - **Cómo resolver problemas y tomar decisiones con eficacia**  
 - **Generative AI: Introduction and Applications**
-- **Manejo de herramientas para codificacion de software**
+- **Tecnica laboral en manejo de herramientas para codificacion de software**
 
 ---
 
