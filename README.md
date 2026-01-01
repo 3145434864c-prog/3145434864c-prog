@@ -1,8 +1,7 @@
 ![Banner](./portadatech.png)
 
 ---
-
-# 👋 ¡Hola!   
+  
 Soy un desarrollador Fullstack en crecimiento, con experiencia construyendo soluciones modernas orientadas a calidad, seguridad y escalabilidad. Combino creatividad, diseño y buenas prácticas para desarrollar productos digitales eficaces.
 
 Me apasiona crear herramientas que resuelvan problemas reales, desde software empresarial hasta aplicaciones web completas.
